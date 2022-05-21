@@ -1,0 +1,94 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Giorgio Franceschelli
+email: giorgio.franceschelli@unibo.it
+description: >- # this means to ignore newlines until "baseurl:"
+  Hi! I am a PhD student in Computer Science and Engineering at University of Bologna.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Gionceschelli
+github_username:  giorgiofranceschelli
+
+# Build settings
+#theme: "alembic-jekyll-theme"
+remote_theme: daviddarnes/alembic@main
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: "/assets/default-social-image.png" # Default image for sharing
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post # Set the default layout for posts
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page # Set the default layout for pages
+
+navigation_header:
+- title: Home
+  url: /
+- title: Research
+  url: /papers/
+- title: Teaching and Talks
+  url: /academic/
+- title: More
+  url: /more/
+ 
+navigation_footer:
+- title: Powered by Jekyll and Alembic
+  url: https://alembic.darn.es/
+ 
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  Email: mailto:giorgio.franceschelli@unibo.it
+  Twitter: https://twitter.com/Gionceschelli
+  LinkedIn: https://it.linkedin.com/in/giorgio-franceschelli-171b83194
+  GitHub: https://github.com/giorgiofranceschelli
