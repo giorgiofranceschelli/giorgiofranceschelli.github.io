@@ -77,11 +77,11 @@ navigation_header:
 - title: Home
   url: /
 - title: Research
-  url: /papers/
+  url: /papers
 - title: Teaching and Talks
-  url: /academic/
+  url: /academic
 - title: More
-  url: /more/
+  url: /more
  
 navigation_footer:
 - title: Powered by Jekyll and Alembic
