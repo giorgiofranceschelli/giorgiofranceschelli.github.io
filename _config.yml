@@ -19,11 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Giorgio Franceschelli
+author: Giorgio Franceschelli
 email: giorgio.franceschelli@unibo.it
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! I am a PhD student in Computer Science and Engineering at University of Bologna.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://giorgiofranceschelli.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Gionceschelli
 github_username:  giorgiofranceschelli
 
