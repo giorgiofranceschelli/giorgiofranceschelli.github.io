@@ -14,7 +14,7 @@ permalink: /papers/
 #### Papers
 
 * Giorgio Franceschelli and Mirco Musolesi. 2022. DeepCreativity: Measuring Creativity with Deep Learning Techniques. [arXiv:2201.06118 [cs.LG]](https://arxiv.org/abs/2201.06118) (under review by _Intelligenza Artificiale_)
-* Giorgio Franceschelli and Mirco Musolesi. 2021. Copyright in Generative Deep Learning. [arXiv:2105.09266 [cs.CY]](https://arxiv.org/abs/2105.09266) (accepted by Cambridge Press _Data & Policy_)
+* Giorgio Franceschelli and Mirco Musolesi. 2022. Copyright in Generative Deep Learning. _Data & Policy_, 4, E17. [doi:10.1017/dap.2022.10](https://www.cambridge.org/core/journals/data-and-policy/article/copyright-in-generative-deep-learning/C401539FDF79A6AC6CEE8C5256508B5E#)
 * Giorgio Franceschelli and Mirco Musolesi. 2021. Creativity and Machine Learning: A Survey. [arXiv:2104.02726 [cs.LG]](https://arxiv.org/abs/2104.02726) (under review by _ACM Computing Surveys_)
 
 #### Books and Contributions

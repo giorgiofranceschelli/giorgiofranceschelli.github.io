@@ -23,7 +23,7 @@ I'm interested in anything related to them, from generative modeling and intelle
 
 #### Latest News
 
-* April 2022 - [_Copyright in Generative Deep Learning_](https://arxiv.org/abs/2105.09266) accepted by Cambridge Press, Data&Policy.
+* May 2022 - [_Copyright in Generative Deep Learning_](https://www.cambridge.org/core/journals/data-and-policy/article/copyright-in-generative-deep-learning/C401539FDF79A6AC6CEE8C5256508B5E#) published by Cambridge Press, Data&Policy.
 * February 2022 - “Machine Creativity and the Law” webinar at Adobe.
 * January 2022 - [_DeepCreativity: Measuring Creativity with Deep Learning Techniques_](https://arxiv.org/abs/2201.06118), preprint available.
 * December 2022 - Master's dissertation presented at AIxIA 2021.
