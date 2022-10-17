@@ -15,7 +15,7 @@ permalink: /more/
 
 If you're not tired yet, I've also published a couple of short novels:
 
-* _Ultima spiaggia_, La Gru Edizioni
+* _Ultima spiaggia_, La Gru Edizioni (here for the [last presentation](https://www.youtube.com/watch?v=Cw44hiQGQu8))
 * _Dekameron_, Aras Edizioni
 
 And here come some unsolicited Top-3s about:
