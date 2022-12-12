@@ -23,7 +23,7 @@ I'm interested in anything related to them, from generative modeling and intelle
 
 #### Latest News
 
-* November 2022 - “Opere d'arte e intelligenza artificiale. Il curioso caso del diritto dìautore” workshop at Accademia di Belle Arti di Verona.
+* November 2022 - “Opere d'arte e intelligenza artificiale. Il curioso caso del diritto d'autore” workshop at Accademia di Belle Arti di Verona.
 * July 2022 - “Copyright in Generative Machine Learning” webinar at MIT Media Lab.
 * May 2022 - [_Copyright in Generative Deep Learning_](https://www.cambridge.org/core/journals/data-and-policy/article/copyright-in-generative-deep-learning/C401539FDF79A6AC6CEE8C5256508B5E#) published in Cambridge Press, Data&Policy.
 * February 2022 - “Machine Creativity and the Law” webinar at Adobe.
