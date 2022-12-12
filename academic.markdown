@@ -19,6 +19,7 @@ Studiorum Università di Bologna.
 
 #### Talks
 
+* 2022 - Speaker for the workshop "Opere d’arte e intelligenza artificiale. Il curioso caso del diritto d'autore" at Accademia di Belle Arti di Verona.
 * 2022 - Speaker for the talk "Copyright in Generative Machine Learning" at MIT Media Lab.
 * 2022 - Speaker for the webinar “Machine Creativity and the Law” at Adobe.
 * 2021 - Presenting Master’s thesis during “AIxIA Awards” session in 20th
