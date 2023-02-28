@@ -21,6 +21,3 @@ permalink: /papers/
 
 * Giorgio Franceschelli, I, Artist. _Opere d’arte e intelligenza artificiale: il curioso caso del diritto d’autore_, Ventura Edizioni, Senigallia, 2019.
 * Giorgio Franceschelli, L’importanza del suono nel progresso culturale, in _Prospettive sonore. Percezione e mediazione_, by A. Calanchi e A. Laquidara, Galaad, Giulianova, 2016, pp. 257 - 274.
-
-
-{% include text-expand.html %}
