@@ -31,8 +31,8 @@ I'm interested in anything related to them, from generative modeling and intelle
 * February 2022 - “Machine Creativity and the Law” webinar at Adobe.
 * January 2022 - [_DeepCreativity: Measuring Creativity with Deep Learning Techniques_](https://arxiv.org/abs/2201.06118), preprint available.
 * December 2022 - Master's dissertation presented at AIxIA 2021.
-* November 2022 - Master's dissertation _Generative Deep Learning and Creativity_ awarded as best Master's thesis by the Italy Association for Artificial Intelligence (AIxIA award Leonardo Lesmo).
-* November 2022 - Starting of PhD in Computer Science and Engineering at University of Bologna.
+* November 2022 - Master's dissertation _Generative Deep Learning and Creativity_ awarded as *best Master's thesis* by the Italy Association for Artificial Intelligence (AIxIA award Leonardo Lesmo).
+* November 2022 - Starting of *PhD* in Computer Science and Engineering at University of Bologna.
 * May 2021 - [_Copyright in Generative Deep Learning_](https://arxiv.org/abs/2105.09266), preprint available.
 * April 2021 - [_Creativity and Machine Learning: A Survey_](https://arxiv.org/abs/2104.02726), preprint available.
 * Februray 2021 - Graduated in Computer Engineering at University of Bologna _cum laude_.
