@@ -34,6 +34,10 @@ remote_theme: daviddarnes/alembic@main
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  
+markdown: kramdown
+kramdown:
+  parse_block_html: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
