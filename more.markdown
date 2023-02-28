@@ -15,8 +15,8 @@ permalink: /more/
 
 If you're not tired yet, I've also published a couple of short novels:
 
-* _Ultima spiaggia_, La Gru Edizioni (here for the [last presentation](https://www.youtube.com/watch?v=Cw44hiQGQu8))
-* _Dekameron_, Aras Edizioni
+* [Ultima spiaggia](https://www.edizionilagru.com/14-piano/227-ultima-spiaggia-9788899291907.html), La Gru Edizioni (here for the [last presentation](https://www.youtube.com/watch?v=Cw44hiQGQu8))
+* [Dekameron](https://www.arasedizioni.com/catalogo/dekameron/), Aras Edizioni
 
 And here come some unsolicited Top-3s about:
 
@@ -28,9 +28,9 @@ And here come some unsolicited Top-3s about:
 
 ##### Songs
 
-1. _New Slang_ by The Shins
-2. _Amsterdam_ by Gregory Alan Isakov
-2. _Ghosts that We Knew_ by Mumford and Sons
+1. [New Slang](https://www.youtube.com/watch?v=zYwCmcB0XMw) by The Shins
+2. [Amsterdam](https://www.youtube.com/watch?v=lz2qpnRB5_E) by Gregory Alan Isakov
+2. [The Mute](https://www.youtube.com/watch?v=QRqKVo8oUn4) by Radical Face
 
 ##### Movies
 
