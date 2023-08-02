@@ -23,6 +23,7 @@ I'm interested in anything related to them, from generative modeling and intelle
 
 #### Latest News
 
+* August 2023 - [_Reinforcement Learning for Generative AI: State of the Art, Opportunities and Open Research Challenges_](https://arxiv.org/abs/2308.00031), preprint available.
 * April 2023 - [_On the Creativity of Large Language Models_](https://arxiv.org/abs/2304.00008), preprint available.
 * December 2022 - [_DeepCreativity: Measuring Creativity with Deep Learning Techniques_](https://content.iospress.com/articles/intelligenza-artificiale/ia220136) published in IOS Press, _Intelligenza Artificiale_.
 * November 2022 - Short interview for The Verge [on AI and copyright](https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data).
