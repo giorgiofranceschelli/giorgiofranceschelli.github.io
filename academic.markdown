@@ -19,6 +19,7 @@ Studiorum Università di Bologna.
 
 #### Talks
 
+* 2023 - Speaker for the webinar “AI's Adventures in Wonderland” as part of Autonomous and Adaptive Systems course, second cycle degree programme in Artificial Intelligence at Alma Mater Studiorum Università di Bologna.
 * 2022 - Speaker for the workshop "Opere d’arte e intelligenza artificiale. Il curioso caso del diritto d'autore" at Accademia di Belle Arti di Verona.
 * 2022 - Speaker for the talk "Copyright in Generative Machine Learning" at MIT Media Lab.
 * 2022 - Speaker for the webinar “Machine Creativity and the Law” at Adobe.
