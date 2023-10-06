@@ -23,6 +23,7 @@ I'm interested in anything related to them, from generative modeling and intelle
 
 #### Latest News
 
+* October 2023 - "Artificial creativity" talk at MilaNLP Lab (Bocconi University).
 * October 2023 - Short interview for The Atlantic [on opt-out and Generative AI](https://www.theatlantic.com/technology/archive/2023/10/openai-dall-e-3-artists-work/675519/).
 * September 2023 - Joining <b>UCL Computer Science</b> for three months as a visiting PhD student.
 * September 2023 - [_On the Creativity of Large Language Models_](https://arxiv.org/abs/2304.00008) among [MAIEI briefs](https://montrealethics.ai/on-the-creativity-of-large-language-models/)!
