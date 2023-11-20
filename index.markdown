@@ -23,6 +23,7 @@ I'm interested in anything related to them, from generative modeling and intelle
 
 #### Latest News
 
+* November 2023 - Short interview for Business Insider [on the legality of training generative AI with copyrighted materials](https://www.businessinsider.com/a-stability-executive-quit-saying-that-generative-ai-exploits-creators-2023-11)
 * November 2023 - [ISA Doctoral Prize](https://site.unibo.it/isa/en/highlights/isa_doctoral_prize) for interdisciplinary PhD research.
 * October 2023 - "Artificial creativity" talk at MilaNLP Lab (Bocconi University).
 * October 2023 - Short interview for The Atlantic [on opt-out and Generative AI](https://www.theatlantic.com/technology/archive/2023/10/openai-dall-e-3-artists-work/675519/).
