@@ -13,10 +13,13 @@ permalink: /academic/
 
 #### Teaching Activities
 
+* 2023-2024 - Teaching tutor in Autonomous and Adaptive Systems, Second cycle degree programme in Artificial Intelligence at Alma Mater Studiorum Università di Bologna.
+* 2023-2024 - Teaching tutor in Technology and Law, First cycle degree programme in Computer Engineering at Alma Mater Studiorum Università di Bologna.
 * 2019-2021 - Teaching tutor in Information Technology and Law, First cycle degree programme in Computer Science and Engineering at Alma Mater Studiorum Università di Bologna.
 
 #### Talks
 
+* 2023 - Speaker for the talk “Artificial Creativity” at MilaNLP Lab (Bocconi University).
 * 2023 - Speaker for the webinar “AI's Adventures in Wonderland” as part of Autonomous and Adaptive Systems course, second cycle degree programme in Artificial Intelligence at Alma Mater Studiorum Università di Bologna.
 * 2022 - Speaker for the workshop "Opere d’arte e intelligenza artificiale. Il curioso caso del diritto d'autore" at Accademia di Belle Arti di Verona.
 * 2022 - Speaker for the talk "Copyright in Generative Machine Learning" at MIT Media Lab.
