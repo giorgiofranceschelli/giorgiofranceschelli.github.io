@@ -19,6 +19,7 @@ permalink: /academic/
 
 #### Talks
 
+* 2024 - Panelist for _New Technologies, Creativity and Ethical Issues: Copyright Challenges in the Age of AI_ at Bologna Children's Book Fair.
 * 2023 - Speaker for the talk “Artificial Creativity” at MilaNLP Lab (Bocconi University).
 * 2023 - Speaker for the webinar “AI's Adventures in Wonderland” as part of Autonomous and Adaptive Systems course, second cycle degree programme in Artificial Intelligence at Alma Mater Studiorum Università di Bologna.
 * 2022 - Speaker for the workshop "Opere d’arte e intelligenza artificiale. Il curioso caso del diritto d'autore" at Accademia di Belle Arti di Verona.
