@@ -23,8 +23,9 @@ I'm interested in anything related to them, from generative modeling and intelle
 
 #### Latest News
 
+* May 2024 - [Creative Beam Search](https://arxiv.org/abs/2405.00099), preprint available. 
 * April 2024 - Panelist for _New Technologies, Creativity and Ethical Issues: Copyright Challenges in the Age of AI_ at Bologna Children's Book Fair.
-* March 2024 - [Do Agents Dream of Electric Sheep?: Improving Generalization in Reinforcement Learning through Generative Learning](https://arxiv.org/abs/2403.07979), prepring available.
+* March 2024 - [Do Agents Dream of Electric Sheep?: Improving Generalization in Reinforcement Learning through Generative Learning](https://arxiv.org/abs/2403.07979), preprint available.
 * February 2024 - [Reinforcement Learning for Generative AI: State of the Art, Opportunities and Open Research Challenges](https://jair.org/index.php/jair/article/view/15278) published in _Journal of Artificial Intelligence Research_.
 * November 2023 - Short interview for Business Insider [on the legality of training generative AI with copyrighted materials](https://www.businessinsider.com/a-stability-executive-quit-saying-that-generative-ai-exploits-creators-2023-11).
 * November 2023 - [ISA Doctoral Prize](https://site.unibo.it/isa/en/highlights/isa_doctoral_prize) for interdisciplinary PhD research.
