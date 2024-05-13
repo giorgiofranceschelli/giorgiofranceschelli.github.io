@@ -23,6 +23,7 @@ I'm interested in anything related to them, from generative modeling and intelle
 
 #### Latest News
 
+* May 2024 - [Creativity and Machine Learning: A Survey](https://dl.acm.org/doi/10.1145/3664595) published in _ACM Computing Surveys_.
 * May 2024 - [Creative Beam Search](https://arxiv.org/abs/2405.00099), preprint available. 
 * April 2024 - Panelist for _New Technologies, Creativity and Ethical Issues: Copyright Challenges in the Age of AI_ at Bologna Children's Book Fair.
 * March 2024 - [Do Agents Dream of Electric Sheep?: Improving Generalization in Reinforcement Learning through Generative Learning](https://arxiv.org/abs/2403.07979), preprint available.
