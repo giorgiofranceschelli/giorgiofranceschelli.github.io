@@ -17,7 +17,7 @@ feature_text: |
 {% include nav-social.html %}
 
 <p align="justify">
-Hi! I'm Giorgio Franceschelli. I'm currently a PhD student at University of Bologna, working on creativity, deep learning and reinforcement learning.
+Hi! I'm Giorgio Franceschelli. I'm currently a PhD student at University of Bologna, working on various areas of Artificial Intelligence, including computational creativity, deep learning and reinforcement learning.
 I'm interested in anything related to them, from generative modeling and intellectual property to art history, neuroscience and ethics. 
 </p>
 
