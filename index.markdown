@@ -23,6 +23,7 @@ I'm interested in anything related to them, from generative modeling and intelle
 
 #### Latest News
 
+* June 2024 - [Creative Beam Search: LLM-as-a-Judge For Improving Response Generation](https://computationalcreativity.net/iccc24/short-papers/ICCC24_paper_161.pdf) presented as a poster at ICCC'24!
 * May 2024 - [Creativity and Machine Learning: A Survey](https://dl.acm.org/doi/10.1145/3664595) published in _ACM Computing Surveys_.
 * May 2024 - [Creative Beam Search: LLM-as-a-Judge For Improving Response Generation](https://arxiv.org/abs/2405.00099), preprint available. 
 * April 2024 - Panelist for _New Technologies, Creativity and Ethical Issues: Copyright Challenges in the Age of AI_ at Bologna Children's Book Fair.
