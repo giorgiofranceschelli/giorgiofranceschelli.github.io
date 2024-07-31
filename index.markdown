@@ -23,6 +23,7 @@ I'm interested in anything related to them, from generative modeling and intelle
 
 #### Latest News
 
+* July 2024 - [Training Foundation Models as Data Compression: On Information, Model Weights and Copyright Law](https://blog.genlaw.org/pdfs/genlaw_icml2024/85.pdf) presented as a spotlight at the ICML 2024 Workshop on Generative AI + Law (GenLaw) '24!
 * July 2024 - [Training Foundation Models as Data Compression: On Information, Model Weights and Copyright Law](https://arxiv.org/abs/2407.13493), preprint available.
 * June 2024 - [Creative Beam Search: LLM-as-a-Judge For Improving Response Generation](https://computationalcreativity.net/iccc24/short-papers/ICCC24_paper_161.pdf) presented as a poster at ICCC'24!
 * May 2024 - [Creativity and Machine Learning: A Survey](https://dl.acm.org/doi/10.1145/3664595) published in _ACM Computing Surveys_.
