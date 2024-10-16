@@ -19,6 +19,7 @@ permalink: /academic/
 
 #### Talks
 
+* 2024 - Panelist for the _Back to fundamentals of research: Interdisciplinarity_ event organized by Istituto di Studi Avanzati (ISA), University of Bologna.
 * 2024 - Speaker for the seminar "Creativity and Machines" as part of the Autonomous and Adaptive Systems course, second cycle degree programme in Artificial Intelligence at Alma Mater Studiorum Università di Bologna.
 * 2024 - Panelist for _New Technologies, Creativity and Ethical Issues: Copyright Challenges in the Age of AI_ at Bologna Children's Book Fair.
 * 2023 - Speaker for the talk “Artificial Creativity” at MilaNLP Lab (Bocconi University).
