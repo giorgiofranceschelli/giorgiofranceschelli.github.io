@@ -11,7 +11,7 @@ feature_text: |
 ---
 
 {:refdef: style="text-align: center;"}
-![image](/assets/images/Picture2.png)
+![image](/assets/images/Picture2.png){:width="128"}
 {: refdef}
 
 {% include nav-social.html %}
