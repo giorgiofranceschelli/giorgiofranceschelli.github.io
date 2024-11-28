@@ -23,6 +23,7 @@ I'm interested in anything related to them, from generative modeling and intelle
 
 #### Latest News
 
+* November 2024 - [On the creativity of large language models](https://link.springer.com/article/10.1007/s00146-024-02127-3) published in _AI & SOCIETY_.
 * October 2024 - Panelist for the _Back to fundamentals of research: Interdisciplinarity_ event organized by Istituto di Studi Avanzati (ISA), University of Bologna.
 * July 2024 - [Training Foundation Models as Data Compression: On Information, Model Weights and Copyright Law](https://blog.genlaw.org/pdfs/genlaw_icml2024/85.pdf) presented as a spotlight at the ICML 2024 Workshop on Generative AI + Law (GenLaw) '24!
 * July 2024 - [Training Foundation Models as Data Compression: On Information, Model Weights and Copyright Law](https://arxiv.org/abs/2407.13493), preprint available.
