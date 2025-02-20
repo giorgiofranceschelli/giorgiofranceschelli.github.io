@@ -13,8 +13,8 @@ permalink: /academic/
 
 #### Teaching Activities
 
-* 2023-2024 - Teaching tutor in Autonomous and Adaptive Systems, Second cycle degree programme in Artificial Intelligence at Alma Mater Studiorum Università di Bologna.
-* 2023-2024 - Teaching tutor in Technology and Law, First cycle degree programme in Computer Engineering at Alma Mater Studiorum Università di Bologna.
+* 2023-2025 - Teaching tutor in Autonomous and Adaptive Systems, Second cycle degree programme in Artificial Intelligence at Alma Mater Studiorum Università di Bologna.
+* 2023-2025 - Teaching tutor in Technology and Law, First cycle degree programme in Computer Engineering at Alma Mater Studiorum Università di Bologna.
 * 2019-2021 - Teaching tutor in Information Technology and Law, First cycle degree programme in Computer Science and Engineering at Alma Mater Studiorum Università di Bologna.
 
 #### Talks
