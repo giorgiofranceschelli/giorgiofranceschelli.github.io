@@ -23,6 +23,7 @@ I'm interested in anything related to them, from generative modeling and intelle
 
 #### Latest News
 
+* February 2025 - [DiffSampling: Enhancing Diversity and Accuracy in Neural Text Generation](https://arxiv.org/abs/2502.14037), preprint available.
 * February 2025 - [Thinking Outside the (Gray) Box: A Context-Based Score for Assessing Value and Originality in Neural Text Generation](https://arxiv.org/abs/2502.13207), preprint available.
 * November 2024 - [On the creativity of large language models](https://link.springer.com/article/10.1007/s00146-024-02127-3) published in _AI & SOCIETY_.
 * October 2024 - Panelist for the _Back to fundamentals of research: Interdisciplinarity_ event organized by Istituto di Studi Avanzati (ISA), University of Bologna.
