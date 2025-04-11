@@ -6,7 +6,7 @@ layout: page
 title: Research Work
 feature_text: |
   # Giorgio Franceschelli
-  PhD student in Computer Science and Engineering at University of Bologna.
+  Researcher at the Department of Computer Science and Engineering, University of Bologna.
 # feature_image: "https://picsum.photos/1300/400?image=989"
 permalink: /papers/
 ---
