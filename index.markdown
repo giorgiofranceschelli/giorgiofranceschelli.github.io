@@ -23,6 +23,7 @@ I'm interested in anything related to them, from generative modeling and intelle
 
 #### Latest News
 
+* April 2025 - Received a <b>PhD in Computer Science and Engineering</b> at University of Bologna with a thesis titled _Deep Reinforcement Learning and Creativity_.
 * April 2025 - Lecturer of "IA generativa e creatività" for the MOOC "L’esplosione dell’Intelligenza Artificiale" offered by University of Urbino.
 * March 2025 - [Quantum Chemistry Driven Molecular Inverse Design with Data-free Reinforcement Learning](https://arxiv.org/abs/2503.12653), preprint available.
 * February 2025 - [DiffSampling: Enhancing Diversity and Accuracy in Neural Text Generation](https://arxiv.org/abs/2502.14037), preprint available.
