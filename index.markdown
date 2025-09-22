@@ -23,6 +23,7 @@ I'm interested in anything related to them, from generative modeling and intelle
 
 #### Latest News
 
+* June 2025 - Expert contributor of the [first OECD AI Capability Indicators](https://www.oecd.org/en/publications/introducing-the-oecd-ai-capability-indicators_be745f04-en.html) - Creativity chapter.
 * April 2025 - Received a <b>PhD in Computer Science and Engineering</b> at University of Bologna with a thesis titled _Deep Reinforcement Learning and Creativity_.
 * April 2025 - Lecturer of "IA generativa e creatività" for the MOOC "L’esplosione dell’Intelligenza Artificiale" offered by University of Urbino.
 * March 2025 - [Quantum Chemistry Driven Molecular Inverse Design with Data-free Reinforcement Learning](https://arxiv.org/abs/2503.12653), preprint available.
