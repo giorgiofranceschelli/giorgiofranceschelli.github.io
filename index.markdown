@@ -23,6 +23,7 @@ I'm interested in anything related to them, from generative modeling and intelle
 
 #### Latest News
 
+* October 2025 - Part of the organizing committee as Program and App Manager at the _28th European Conference on Artificial Intelligence (ECAI'25)_.
 * September 2025 - [Complexity-Driven Policy Optimization](https://arxiv.org/abs/2509.20509), preprint available.
 * June 2025 - Expert contributor of the [first OECD AI Capability Indicators](https://www.oecd.org/en/publications/introducing-the-oecd-ai-capability-indicators_be745f04-en.html) - Creativity chapter.
 * April 2025 - Received a <b>PhD in Computer Science and Engineering</b> at University of Bologna with a thesis titled _Deep Reinforcement Learning and Creativity_.
