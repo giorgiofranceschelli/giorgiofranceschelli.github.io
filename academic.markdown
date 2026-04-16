@@ -19,6 +19,7 @@ permalink: /academic/
 
 #### Talks
 
+* 2026 - Speaker for the invited talk "LLMs and Creativity, in Theory and in Practice" at the Rhine-Main Universities (RMU) AI and Creativity Symposium in Darmstadt, Germany.
 * 2025 - Speaker for the seminar "Creativity and the Generative AI Era" as part of the Autonomous and Adaptive Systems course, second cycle degree programme in Artificial Intelligence at Alma Mater Studiorum Università di Bologna.
 * 2025 - Lecturer of "IA generativa e creatività" as part of the MOOC "L’esplosione dell’Intelligenza Artificiale" offered by University of Urbino.
 * 2025 - Speaker for the micro-webinar "Intelligenza Artificiale Generativa e le nuove sfide del Diritto d'Autore" as part of the Computer Law course, first cycle degree programme in Computer Engineering at Alma Mater Studiorum Università di Bologna.
