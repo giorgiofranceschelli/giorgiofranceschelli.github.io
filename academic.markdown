@@ -19,6 +19,7 @@ permalink: /academic/
 
 #### Talks
 
+* 2026 - Speaker for the seminar "Learned Multi-Agents and Multi-Agent Learning: From Rewards to Prompts" as part of the Multi-Agent Systems course, second cycle degree programme in Artificial Intelligence at Alma Mater Studiorum Università di Bologna.
 * 2026 - Speaker for the invited talk "LLMs and Creativity, in Theory and in Practice" at the Rhine-Main Universities (RMU) AI and Creativity Symposium in Darmstadt, Germany.
 * 2025 - Speaker for the seminar "Creativity and the Generative AI Era" as part of the Autonomous and Adaptive Systems course, second cycle degree programme in Artificial Intelligence at Alma Mater Studiorum Università di Bologna.
 * 2025 - Lecturer of "IA generativa e creatività" as part of the MOOC "L’esplosione dell’Intelligenza Artificiale" offered by University of Urbino.
