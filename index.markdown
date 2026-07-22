@@ -23,6 +23,7 @@ I'm interested in anything related to them, from generative modeling and intelle
 
 #### Latest News
 
+* July 2026 - [SIP-Classifier: Unsupervised Classification of SIP-IMS Signaling with Transformer and Clustering](https://ieeexplore.ieee.org/document/11615004) published in _IEEE Transactions on Network and Service Management_.
 * April 2026 - [On the Creativity of AI Agents](https://arxiv.org/abs/2604.13242), preprint available.
 * March 2026 - [Quantum Chemistry-Driven Molecular Inverse Design of Stable Isomers with Data-Free Reinforcement Learning](https://pubs.acs.org/doi/10.1021/acs.jctc.5c02055) published in _Journal of Chemical Theory and Computation_.
 * December 2025 - [DiffSampling: Enhancing Diversity and Accuracy in Neural Text Generation](https://openreview.net/forum?id=kXjHbMvdIi) published in _Transactions on Machine Learning Research_. Find out more in this [short video presentation](https://tmlr.infinite-conf.org/paper_pages/kXjHbMvdIi.html).
