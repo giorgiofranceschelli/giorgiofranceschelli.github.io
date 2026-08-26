@@ -23,6 +23,7 @@ I'm interested in anything related to them, from generative modeling and intelle
 
 #### Latest News
 
+* August 2026 - [The Limits of Automatic Evaluation of Creativity in Large Language Models](https://arxiv.org/abs/2608.23705), preprint available.
 * July 2026 - [SIP-Classifier: Unsupervised Classification of SIP-IMS Signaling with Transformer and Clustering](https://ieeexplore.ieee.org/document/11615004) published in _IEEE Transactions on Network and Service Management_.
 * April 2026 - [On the Creativity of AI Agents](https://arxiv.org/abs/2604.13242), preprint available.
 * March 2026 - [Quantum Chemistry-Driven Molecular Inverse Design of Stable Isomers with Data-Free Reinforcement Learning](https://pubs.acs.org/doi/10.1021/acs.jctc.5c02055) published in _Journal of Chemical Theory and Computation_.
