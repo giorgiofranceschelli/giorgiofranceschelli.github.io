@@ -23,6 +23,7 @@ I'm interested in anything related to them, from generative modeling and intelle
 
 #### Latest News
 
+* November 2026 - [Evaluating AI Musical Creativity: Towards a Quantitative Multi-Dimensional Framework Based on Value, Novelty, and Surprise](https://arxiv.org/abs/2611.14634), preprint available.
 * August 2026 - [The Limits of Automatic Evaluation of Creativity in Large Language Models](https://arxiv.org/abs/2608.23705), preprint available.
 * July 2026 - [SIP-Classifier: Unsupervised Classification of SIP-IMS Signaling with Transformer and Clustering](https://ieeexplore.ieee.org/document/11615004) published in _IEEE Transactions on Network and Service Management_.
 * April 2026 - [On the Creativity of AI Agents](https://arxiv.org/abs/2604.13242), preprint available.
