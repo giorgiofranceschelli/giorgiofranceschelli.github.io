@@ -77,8 +77,8 @@ $headingtype: (
   cap-height: 0.75
 );
 
+@import "alembic";
+
 h1#giorgio-franceschelli {
   font-weight: 500 !important;
 }
-
-@import "alembic";
