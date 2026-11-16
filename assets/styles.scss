@@ -3,8 +3,22 @@ title: false
 styles: true
 ---
 
-// Typography
+// Background colours
+$backgroundColour: #ffffff;
+$codeBackgroundColour: #fafafa;
+$featureBackgroundColour: #f9fafa;
+$accentColour: #8e94f2;
 
+// Text colours
+$headingColour: #242e2b;
+$bodyColour: #384743;
+$linkColour: #8e94f2;
+$hoverColour: #8187dc;
+$focusColour: #ff8800;
+$captionColour: #a8adac;
+$white: #ffffff;
+
+// Typography
 @font-face {
   font-family: "BrisaSans";
   src: url("fonts/BrisaSans/BrisaSans-Thin.otf") format("opentype");
