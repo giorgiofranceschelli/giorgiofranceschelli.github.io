@@ -24,6 +24,14 @@ $white: #ffffff !default;
 
 @font-face {
   font-family: "BrisaSans";
+  src: url("fonts/BrisaSans/BrisaSans-Thin.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BrisaSans";
   src: url("fonts/BrisaSans/BrisaSans-Light.otf") format("opentype");
   font-weight: 400;
   font-style: normal;
@@ -35,6 +43,14 @@ $white: #ffffff !default;
   src: url("fonts/BrisaSans/BrisaSans-Regular.otf") format("opentype");
   font-weight: 700;
   font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BrisaSans";
+  src: url("fonts/BrisaSans/BrisaSans-ThinItalic.otf") format("opentype");
+  font-weight: 300;
+  font-style: italic;
   font-display: swap;
 }
 
