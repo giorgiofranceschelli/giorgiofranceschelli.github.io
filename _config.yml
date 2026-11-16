@@ -74,6 +74,24 @@ defaults:
     values:
       layout: page # Set the default layout for pages
 
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+lang: en-GB # Set the site language
+title: "Giorgio Franceschelli" # Site name or title, also used in jekyll-seo-tag
+#logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+description: "This is the personal webpage of Giorgio Franceschelli, PhD" # Site description and default description, also used in jekyll-seo-tag
+url: "https://giorgiofranceschelli.github.io/" # Site url, also used in jekyll-seo-tag
+baseurl: ""
+repo: "https://github.com/giorgiofranceschelli/giorgiofranceschelli.github.io"
+email: "giorgio.franceschelli@unibo.it"
+# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+# date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
+# google_analytics: ""
+# google_analytics_anonymize_ip: ""
+# service_worker: false # Will turn off the service worker if set to false
+# short_name: "Al" # The web application short name, defaults to the site title
+css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
+
 navigation_header:
 - title: Home
   url: /
@@ -93,3 +111,13 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Twitter: https://twitter.com/Gionceschelli
   LinkedIn: https://it.linkedin.com/in/giorgio-franceschelli-171b83194
   GitHub: https://github.com/giorgiofranceschelli
+
+# Load custom fonts from fonts.google.com etc
+#
+# TIP: Try to keep the number of urls as low to reduce the performance cost
+#      If multiple fonts can be requested in a single url opt for this
+fonts:
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
