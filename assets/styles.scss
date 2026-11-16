@@ -53,6 +53,13 @@ styles: true
   font-display: swap;
 }
 
+@font-face {
+  font-family: "BrisaSans";
+  src: url("fonts/BrisaSans/BrisaSans-Medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
 
 $bodytype: (
   font-family: '"BrisaSans", sans-serif',
@@ -71,8 +78,8 @@ $headingtype: (
 );
 
 .feature h1 {
-  font-size: 2.5rem;
-  font-weight: 700;
+  font-size: 2.8rem;
+  font-weight: 500;
 }
 
 @import "alembic";
