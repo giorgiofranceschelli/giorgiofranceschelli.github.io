@@ -70,4 +70,9 @@ $headingtype: (
   cap-height: 0.75
 );
 
+.feature h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
 @import "alembic";
