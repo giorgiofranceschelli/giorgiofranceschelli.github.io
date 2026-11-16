@@ -112,6 +112,8 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   LinkedIn: https://it.linkedin.com/in/giorgio-franceschelli-171b83194
   GitHub: https://github.com/giorgiofranceschelli
 
+favicons: true
+
 # Load custom fonts from fonts.google.com etc
 #
 # TIP: Try to keep the number of urls as low to reduce the performance cost
