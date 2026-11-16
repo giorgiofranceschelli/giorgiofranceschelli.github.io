@@ -3,6 +3,23 @@ title: false
 styles: true
 ---
 
+// Background colours
+
+$backgroundColour: #ffffff;
+$codeBackgroundColour: #fafafa;
+$featureBackgroundColour: #f9fafa; # header color
+$accentColour: #05bf85; # link color
+
+// Text colours
+
+$headingColour: #242e2b;
+$bodyColour: #384743;
+$linkColour: #05bf85; # link color
+$hoverColour: #008000; # link-when-cursor-over color
+$focusColour: #fa407a; # border-after-clicking color
+$captionColour: #a8adac;
+$white: #ffffff;
+
 // Typography
 
 @font-face {
