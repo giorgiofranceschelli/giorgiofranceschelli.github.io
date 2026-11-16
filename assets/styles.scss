@@ -1,0 +1,55 @@
+---
+title: false
+styles: true
+---
+
+// Typography
+
+@font-face {
+  font-family: "BrisaSans";
+  src: url("fonts/BrisaSans/BrisaSans-Light.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BrisaSans";
+  src: url("fonts/BrisaSans/BrisaSans-Regular.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BrisaSans";
+  src: url("fonts/BrisaSans/BrisaSans-LightItalic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BrisaSans";
+  src: url("fonts/BrisaSans/BrisaSans-Italic.otf") format("opentype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+
+$bodytype: (
+  font-family: '"BrisaSans", sans-serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+);
+
+$headingtype: (
+  font-family: '"BrisaSans", sans-serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+);
+
+@import "alembic";
